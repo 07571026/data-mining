@@ -1,8 +1,9 @@
 # data-mining
 
->Week 1
+### Week 1
 
-* 課堂小任務：資料合併
-  * 資料合併可是很重要的，IBM幫一家麵包店合併氣象資料到POS資料，成功找到什麼天氣適合賣什麼麵包的資訊。
+* 課堂任務：[Data Merge]()
+  * 從資料預處理(data preprocessing)到SQL查詢都會遇到資料合併
+  * 如何在Python上使用Pandas進行資料合併
 
 * Codesignal:
