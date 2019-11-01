@@ -7,4 +7,4 @@
   * 如何在Python上使用Pandas進行資料合併
 
 ### Homework 1
-* 作業:[Financial Fraud Detection with Decision Tree]()
+* 作業:[Financial Fraud Detection with Decision Tree](https://github.com/07571026/data-mining/blob/master/HW1/decision%20tree.ipynb)
