@@ -8,4 +8,4 @@ EDA (探索性資料分析)
 * [Financial Fraud](https://github.com/07571026/data-mining/blob/master/EDA/Synthetic%20Financial%20Datasets%20For%20Fraud%20Detection.ipynb)
 
 Kaggle competition
-*  [Ghouls, Goblins, and Ghosts... Boo!]()
+*  [Ghouls, Goblins, and Ghosts... Boo!](https://github.com/07571026/data-mining/blob/master/Kaggle%20competition/Ghouls%2C%20Goblins%2C%20and%20Ghosts.ipynb)
